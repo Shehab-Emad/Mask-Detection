@@ -1,3 +1,3 @@
 # Mask-Detection
 ### Markov Data Course
-### Detect if people wear mask or not by training OUR Convolutional Neural Networks 
+### Find out whether people are wearing a mask or not by training our convolutional neural networks
